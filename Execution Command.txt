@@ -1,0 +1,8 @@
+Openmp execution process
+g++ -fopenmp  filename.cpp -o filename
+./filename
+
+
+CUDA create file by .cu
+nvcc filename.cu -o filename.exe
+./filename.exe
